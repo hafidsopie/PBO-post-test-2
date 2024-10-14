@@ -2,8 +2,66 @@
 # NAMA : MUHAMMAD HAFIDH SHOVI
 # NIM : 2309116048
 # STUDI KASUS PERUSAHAAN KPOP
+# A. PENJELASAN SOURCE CODE
+# 1. Inheritance
 
-# A. PENJELASAN OUTPUT
+Inheritance adalah konsep di mana sebuah kelas dapat mewarisi atribut dan metode dari kelas lain. Pada kode ini, SoloArtist dan GroupArtist mewarisi dari kelas abstrak Artis, sehingga mereka mendapatkan properti seperti nama, umur, genre, dan tahun_debut dari kelas induk Artis.
+
+# SUBTYPE DARI CLASS ARTIS
+
+![Screenshot 2024-10-14 203437](https://github.com/user-attachments/assets/1930f774-767b-4397-8b5d-55713791c7db)
+
+ 
+![Screenshot 2024-10-14 203504](https://github.com/user-attachments/assets/ac1e2d66-08dc-469e-aa41-66cc74ed4991)
+
+
+
+# 2 Encapsulation
+
+Encapsulation adalah teknik untuk membungkus data (variabel) dan kode yang memanipulasi data tersebut dalam satu unit (kelas), serta mengontrol akses terhadap data tersebut menggunakan modifier akses (seperti private dan public), yang mana data bisa diakses dengan getter dan setter.
+
+CONTOH 
+
+PRIVATE
+
+
+![Screenshot 2024-10-14 203749](https://github.com/user-attachments/assets/83cb7bdb-8448-4fdd-a002-d583a2e352b6)
+
+
+PUBLIC
+
+![image](https://github.com/user-attachments/assets/d18e6641-a765-49ea-9808-a3617ce7619c)
+
+
+# 3. Abstraction 
+
+Abstraction adalah proses menyembunyikan detail implementasi yang kompleks dan hanya menunjukkan fungsionalitas yang penting. Dalam hal ini, abstraksi dilakukan dengan menggunakan kelas abstrak Artis dan interface CRUD.
+
+ABSTRACTION
+
+
+![image](https://github.com/user-attachments/assets/d68830b5-5b74-4f33-89f8-482b8feeceea)
+
+
+# 4.INTERFACE
+
+Interface adalah kontrak yang memaksa kelas untuk mengimplementasikan metode-metode tertentu. Pada kode ini, interface CRUD digunakan untuk menetapkan metode yang harus ada di kelas management, seperti menambah artis, menampilkan artis, menghapus artis, dan memperbarui data artis.
+
+
+![image](https://github.com/user-attachments/assets/bf7d2977-bb34-4e9a-ae78-6d7b9529f8f9)
+
+
+# 5. Final keyword
+
+Final digunakan untuk mendeklarasikan sesuatu agar tidak bisa diubah atau diwarisi lebih lanjut
+
+![image](https://github.com/user-attachments/assets/74ef167a-9a90-441c-8b42-6c5e20b14b46)
+
+
+![image](https://github.com/user-attachments/assets/d091eeb0-8d22-4a1b-996d-f353d4169e9d)
+
+# B. PENJELASAN OUTPUT
+
 Cara menggunakan program ini sangat sederhana dan berpusat pada menu yang disediakan kepada user. Berikut adalah langkah-langkah umum untuk menggunakan program
 
 # 1. MENU UTAMA 
