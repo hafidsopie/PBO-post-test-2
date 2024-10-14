@@ -2,10 +2,8 @@
 # NAMA : MUHAMMAD HAFIDH SHOVI
 # NIM : 2309116048
 # STUDI KASUS PERUSAHAAN KPOP
-# A. PENJELASAN SOURCE CODE
-Program ini memiliki beberapa method, properti, dan lain lain yang digunakan untuk memenejemen artis yang ada di perusahaan. Berikut adalah penjelasan komponen komponen utama yang digunakan dalam program.
 
-# B. PENJELASAN OUTPUT
+# A. PENJELASAN OUTPUT
 Cara menggunakan program ini sangat sederhana dan berpusat pada menu yang disediakan kepada user. Berikut adalah langkah-langkah umum untuk menggunakan program
 
 # 1. MENU UTAMA 
